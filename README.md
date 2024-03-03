@@ -1,6 +1,6 @@
 # Vite_React_and_Spring_Boot_Full_Stack_Project_CRUD
 
-This is a full-stack web application for managing students in a school or educational institution. The project includes a backend API built with Spring Boot and a frontend UI built with React.
+This is a full-stack web application for managing students in a school or educational institution. The project includes a backend API built with Spring Boot and a frontend UI built with vite_React.
 
 ## Technologies Used
 
@@ -15,13 +15,12 @@ This is a full-stack web application for managing students in a school or educat
 - Vite (Front-end tool)
 - React.js
 - Axios (API communication)
-- Flowbite React UI components
-- Tailwind CSS
+- React-router
+- Flowbite React UI components, Tailwind CSS
 
 ## Features
 
 - **Student Management**: CRUD operations for managing student records.
-
 
 # Getting Started with Vite
 
