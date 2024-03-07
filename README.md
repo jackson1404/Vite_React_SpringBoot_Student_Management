@@ -75,7 +75,7 @@ To run the application, navigate to the root directory of the project in your te
 To run tests for the application, use the following command:
 
 ```bash
-Copy code
+
 ./mvnw test
 ```
 ### Building for Production
@@ -83,7 +83,7 @@ Copy code
 To build the application for production, use the following command:
 
 ```bash
-Copy code
+
 ./mvnw clean package
 ```
 
