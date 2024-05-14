@@ -21,6 +21,7 @@ This is a full-stack web application for managing students in a school or educat
 ## Features
 
 - **Student Management**: CRUD operations for managing student records.
+- Searching, Pagination and export features for records.
 
 # Getting Started with Vite
 
